@@ -8,4 +8,4 @@ def sum_list(input_list: List[float]) -> float:
     y: float = 0.0
     for z in input_list:
         y += z
-        return y
+    return y
